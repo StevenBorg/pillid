@@ -12,6 +12,6 @@ pytz==2017.2
 PyYAML==5.1
 scipy==0.19.1
 six==1.10.0
-tensorflow==1.12.2
+tensorflow==2.5.0
 tensorflow-tensorboard==0.1.5
 Werkzeug==0.15.3
